@@ -1,0 +1,13 @@
+{
+    "name": "Shopping",
+    "alias": "shopping",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Shopping\\Providers\\ShoppingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

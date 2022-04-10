@@ -1,0 +1,13 @@
+{
+    "name": "Help",
+    "alias": "help",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Help\\Providers\\HelpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
